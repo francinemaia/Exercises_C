@@ -1,4 +1,4 @@
-/*Writes a function that shows the number passed as a parameter.
+/*Write a function that shows the number passed as a parameter.
 The function should be able to show the totality of possible values in a variable of type int. */
 
 #include <stdio.h>
